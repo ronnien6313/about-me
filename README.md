@@ -5,7 +5,7 @@ My email to contact me is ronnien6313@hstat.org.
 
 The school I go to is _[HSTAT](hstat.org)_ or **High School of Telecommunications Arts & Technology**.
 
-Ronnie Ng was born in 2005 and grew up in Brooklyn and Manhattan. He often switched between the two because his two parents worked in different places but it stopped when COVID came. He now goes to a school in Brooklyn called HSTAT as a sophomore.
+Ronnie Ng was born in 2005 and grew up in Brooklyn and Manhattan. He often switched between the two because his two parents worked in different places but it stopped when COVID came. Ronnie goes to a school in Brooklyn called HSTAT as a sophomore.
 
 ---
 ##### My school schedule
@@ -28,5 +28,5 @@ Ronnie Ng was born in 2005 and grew up in Brooklyn and Manhattan. He often switc
 2. My Computer
 3. Friends
 4. Family
-
+5. SEP
 ---
